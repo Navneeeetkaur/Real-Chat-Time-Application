@@ -4,3 +4,5 @@ It is a type of application that allows users to communicate with each other in 
 # Prerequisite
 Basic JavaScript knowledge is needed. If you need a refresher, check out our class on JavaScript.
 Node and NPM installed. If you don't have them installed, follow our how to install Node guide.
+
+![image](https://github.com/Navneeeetkaur/Real-Chat-Time-Application/assets/140687052/d8456e64-0ef1-4ab7-a8de-c70f44f6112c)
